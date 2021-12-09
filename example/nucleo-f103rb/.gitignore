@@ -1,0 +1,7 @@
+.mxproject
+.project
+.cproject
+.settings
+Debug/
+Release/
+*.launch
